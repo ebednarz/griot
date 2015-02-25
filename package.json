@@ -1,0 +1,17 @@
+{
+  "name": "griot",
+  "version": "0.0.1",
+  "author": "Eric Bednarz <github@bednarz.nl>",
+  "license": "MIT",
+  "description": "Simple browser pubsub sans callback queues.",
+  "keywords": [
+    "browser",
+    "event",
+    "observer",
+    "pubsub"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ebednarz/griot"
+  }
+}
